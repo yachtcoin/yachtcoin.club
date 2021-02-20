@@ -21,7 +21,7 @@ header a.brand {
 }
 
 div.logo {
-  background-image : url(../images/squeryl_logo_lg.png);
+  background-image : url(https://raw.githubusercontent.com/yachtcoin/assets/main/logo-square.png);
   display : block;
   height : 328px;
   width: 399px;
@@ -157,8 +157,9 @@ footer {
 
 @media screen and (-webkit-min-device-pixel-ratio: 2), screen and (max--moz-device-pixel-ratio: 2) {
   div.logo {
-    background-image : url(../images/squeryl_logo_lg@2x.png);
-    background-size: 399px;
+    background-image : url(https://raw.githubusercontent.com/yachtcoin/assets/main/logo-square.png);
+    background-size: contain;
+    background-repeat: no-repeat;
   }
 
   div.suboptions div.circle {
@@ -198,7 +199,7 @@ footer {
 
 @media screen and (max-width: 768px) {
   header a.brand {
-    background-image: url(../images/squeryl_mask.png);
+    background-image: url(https://raw.githubusercontent.com/yachtcoin/assets/main/logo-square.png);
     width: 61px;
     height : 48px;
     display : block;
