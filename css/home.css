@@ -22,7 +22,9 @@ header a.brand {
 
 div.logo {
   background-image : url(https://raw.githubusercontent.com/yachtcoin/assets/main/logo-square.png);
-  display : block;
+  background-size: contain;
+  background-repeat: no-repeat;
+display : block;
   height : 328px;
   width: 399px;
 }
@@ -181,7 +183,7 @@ footer {
 @media screen and (max-width: 992px) and (-webkit-min-device-pixel-ratio: 2) {
   div.logo {
     width: 280px;
-    height: 230px;
+    height: 280px;
     background-size: 280px;
   }
 }
@@ -189,7 +191,7 @@ footer {
 @media screen and (max-width: 992px) {
   div.logo {
     width: 280px;
-    height: 230px;
+    height: 280px;
     background-size: 280px;
   }
   div.quotes {
@@ -200,8 +202,8 @@ footer {
 @media screen and (max-width: 768px) {
   header a.brand {
     background-image: url(https://raw.githubusercontent.com/yachtcoin/assets/main/logo-square.png);
-    width: 61px;
-    height : 48px;
+    background-size: contain;
+    background-repeat: no-repeat;
     display : block;
   }
   header a.brand span {
@@ -254,6 +256,7 @@ footer {
 @media screen and (-webkit-min-device-pixel-ratio: 2) and (max-width: 768px), screen and (max--moz-device-pixel-ratio: 2) and (max-width: 768px) {
   header a.brand {
     background-image : url(https://raw.githubusercontent.com/yachtcoin/assets/main/logo-square.png);
-    background-size: 61px;
+    background-size: contain;
+    background-repeat: no-repeat;
   }
 }
