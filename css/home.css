@@ -87,7 +87,7 @@ div.jumbotron div.btn-container {
 
 
 div.suboptions {
-  background-color : #9AC31B;
+  background-color : #00a5a5;
   padding : 20px 0;
 }
 
@@ -140,6 +140,7 @@ div.quotes div.quotedtext {
 
 div.quotes div.quotedtext p.quotable {
   font-size : 1.5em;
+  color: #00a5a5;
 }
 
 div.quotes div.quotedtext p.attribution {
@@ -147,6 +148,7 @@ div.quotes div.quotedtext p.attribution {
   text-align : right;
   margin-right : 20%;
   margin-top : 15px;
+  color: #00a5a5;
 }
 
 footer {
