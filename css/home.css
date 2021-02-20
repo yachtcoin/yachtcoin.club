@@ -18,6 +18,8 @@ header .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:
 header a.brand {
   font-family: Neo Sans W15 Bold;
   color: #004868;
+  text-decoration-style: underline;
+  text-decoration-style: wavy;
 }
 
 div.logo {
