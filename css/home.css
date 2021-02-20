@@ -253,7 +253,7 @@ footer {
 
 @media screen and (-webkit-min-device-pixel-ratio: 2) and (max-width: 768px), screen and (max--moz-device-pixel-ratio: 2) and (max-width: 768px) {
   header a.brand {
-    background-image : url(../images/squeryl_mask@2x.png);
+    background-image : url(https://raw.githubusercontent.com/yachtcoin/assets/main/logo-square.png);
     background-size: 61px;
   }
 }
