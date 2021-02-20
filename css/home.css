@@ -44,13 +44,13 @@ div.jumbotron {
 }
 
 div.jumbotron a.btn-success {
-  background-color : #9AC31B;
+  background-color : #00a5a5;
   border-color : #222;
   font-size : 2em;
 }
 
 div.jumbotron a.btn-success:hover {
-  background-color : #B2CC30;
+  background-color : #004868;
 
 }
 
@@ -94,7 +94,7 @@ div.suboptions {
 div.suboptions h4 {
   font-size : 2em;
   font-weight : normal;
-  color : black;
+  color : #004868;
   font-family: Neo Sans W10 Medium;
   text-align : center;
   margin-top : 20px;
