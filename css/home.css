@@ -35,8 +35,9 @@ div.jumbotron {
   background-color : black;
   color : white;
   margin-bottom : 0;
-  background-image : url(../images/home_mid_bg.png);
+  background-image : url(../images/Yacht_Pelorus_in_Croatia_-_02.jpg);
   background-position : center bottom;
+  background-size: cover;
   background-repeat : no-repeat;
 }
 
